@@ -1,0 +1,12 @@
+.new-user {
+    width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.new-user h1 {
+    border: red;
+    padding: 10px;
+}

@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin: 200px auto 0;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.form label {
+    text-align: left;
+    font-weight: 500;
+}
